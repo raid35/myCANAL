@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=163818053595_image-header_pRow_1679996050000&quality=70" ,DAZN 1
+http://4u.eagle4u.org/live/r9h3f6o8lm/dm8n9e6ri0/2023012.ts
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=2ouwtae8ad7l1fxviow9bowpk_image-header_pEs_1661946414000" ,DAZN 2
+http://4u.eagle4u.org/live/r9h3f6o8lm/dm8n9e6ri0/2023013.ts
