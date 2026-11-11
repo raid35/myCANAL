@@ -1,16 +1,16 @@
-#EXTINF:-1 group-title="StarzPlay ©",M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909ef17ca4/uploads/media/08_CHN43FN_313.png" group-title="FRANCE HD",M6 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abf7feb9a2acc125ad47d5cc826af07b:2cbdff4c6d869474ac2dbc81f7ec8eed
 https://ev-fast-mpd.starzplayarabia.com/live/eds/M6/DASH/M6.mpd 
-#EXTINF:-1 group-title="StarzPlay ©",W9
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909f284ac7/uploads/media/11_CHN43FN_296.png" group-title="FRANCE HD",W9 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678f053f69300b5047b321962c752773:ea20e52073f9baaf1855b7621e1e8213
 https://ev-fast-mpd.starzplayarabia.com/live/eds/W9/DASH/W9.mpd
-#EXTINF:-1 group-title="StarzPlay ©",6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909fbb6563/uploads/media/19_CHN43FN_521.png" group-title="FRANCE HD",6TER HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1593506659b7feb11acacba48f8a6794:20f2dba741eaeb92aa5520f6556f67db
 https://ev-fast-mpd.starzplayarabia.com/live/eds/6ter/DASH/6ter.mpd
-#EXTINF:-1 group-title="StarzPlay ©",M6_Music
+#EXTINF:-1 tvg-id="M6_Music.fr" tvg-name="M6_Music HD" tvg-logo="https://h.top4top.io/p_3967g02sg1.jpg" group-title="FRANCE HD",M6_Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ae79d0573bab855ff6c43eb7287caa1:d4c90f891a4b57def870b04fd247f1cb
 https://ev-fast-mpd.starzplayarabia.com/live/eds/M6_Music/DASH/M6_Music.mpd
