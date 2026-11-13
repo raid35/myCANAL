@@ -14,3 +14,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/6ter/DASH/6ter.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ae79d0573bab855ff6c43eb7287caa1:d4c90f891a4b57def870b04fd247f1cb
 https://ev-fast-mpd.starzplayarabia.com/live/eds/M6_Music/DASH/M6_Music.mpd
+#EXTINF:-1 tvg-id="M6_Music.fr" tvg-name="TVE La 1" tvg-logo="https://aldirecto.com/logos/la-1.png" group-title="FRANCE HD",TVE La 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
